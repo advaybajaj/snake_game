@@ -1,0 +1,1 @@
+this is a game made using the 'turtle' library in python. The turtle module provides turtle graphics primitives, in both object-oriented and procedure-oriented ways. It can be used to make simple games like this very simple yet fun snake game classic. The code is pretty self-explanatory, with comments provided wherever i thought things got confusing. 
